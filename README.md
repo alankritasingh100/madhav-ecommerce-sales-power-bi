@@ -5,3 +5,6 @@ Owner of Madhav Store wants us to help them create a dashboard to track and anal
 
 - Received Data in .csv files.
 - Transform data in Power BI.
+- Data View in Power BI.
+- Model View in Power BI.
+- Dashboard in Power BI.
